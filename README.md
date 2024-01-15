@@ -10,8 +10,8 @@
 哈哈我真是个大聪明！！  
 主要说明：  
 index.php:书架页面  
-config.php：服务器等内容在这里配置  
+这条没用了，chatgpt给整合进api.php里了。     config.php：服务器等内容在这里配置  
 api.php：一些中转给reader3的  
 # 安装方法  
-搭建一个PHP环境，把文件丢进去，记得修改config.php里的地址  
+搭建一个PHP环境，把文件丢进去，记得修改api.php里的地址  
 大功告成！  
