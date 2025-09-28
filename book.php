@@ -92,7 +92,7 @@
     // 章节切换功能
     $('#prevChapter').click(function() {
         saveBookProgress(bookUrl, chapterIndex);
-	window.scrollTo(0， 0);
+	window.scrollTo(0, 0);
         if (chapterIndex > 0) {
             chapterIndex -= 1;
             updateContentAndTitle();
